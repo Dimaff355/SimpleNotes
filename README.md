@@ -1,5 +1,11 @@
 # SimpleNotes
 
+Программа заметок, которая написана с нуля самостоятельно.
+
+04.10.2021
+- реализована база данных на Room (классы DAO, Database и Entity)
+- реализован view binding
+
 TODO:
 - ViewModel c Livedata
 - макет одного элемента RecyclerView
